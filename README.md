@@ -16,3 +16,7 @@ This project was built using the following technologies:
 - HTML
 - CSS
 - JavaScript
+
+# License
+
+This project is licensed under the MIT License.
